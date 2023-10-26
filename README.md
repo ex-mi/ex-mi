@@ -1,16 +1,19 @@
-### Hi there 👋
-
+<pre>
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║    ███████╗██╗  ██╗   ███╗   ███╗██╗    > System update available          ║
+║    ██╔════╝╚██╗██╔╝   ████╗ ████║██║    > Update: Y/N                      ║
+║    █████╗   ╚███╔╝    ██╔████╔██║██║    > Updating, please wait...         ║
+║    ██╔══╝   ██╔██╗    ██║╚██╔╝██║██║    > System update successful!        ║
+║    ███████╗██╔╝ ██╗██╗██║ ╚═╝ ██║██║                                       ║
+║    ╚══════╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝    > Your paradise is just a dream    ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+</pre>
 <!--
-**ex-mi/ex-mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+	# Yes, I am a criminal. My crime is that of curiosity.
+	# 💬 Website: ex-mi.ru | 💬 Telegram: @vladexmi | 💬 Discord: @ex.mi
 -->
+💬 Website: ex-mi.ru | 💬 Telegram: @vladexmi | 💬 Discord: @ex.mi
+
+<a href="https://vk.com/ex_mi">VK</a> | <a href="https://www.youtube.com/@ex_mi">YouTube</a> | <a href="https://www.linkedin.com/in/ex-mi/">LinkedIn</a>
